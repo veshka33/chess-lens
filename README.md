@@ -1,4 +1,4 @@
-# chess-lens
+# Chess Lens
 
 ![Chess Lens](assets/chess_overlay.png)
 
@@ -16,3 +16,5 @@
 | `F8` | start/setup |
 | `F2` | Search for chessboard |
 | `right click` | Close the program |
+
+# Running
