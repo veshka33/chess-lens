@@ -8,7 +8,7 @@
 > [!WARNING]
 > **Run as administrator:** Don't be afraid to run the project with administrator rights - this is necessary for the program to correctly capture/scan the screen and interact with the chess engine.
 
-| Клавиша | Действие |
+| Key | Action |
 | :--- | :--- |
 | `F8` | start/setup |
 | `F2` | Search for chessboard |
