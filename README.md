@@ -18,3 +18,4 @@
 | `right click` | Close the program |
 
 # Running
+Download the release version that suits you, then download the engine from https://github.com/LeelaChessZero/lc0/releases. You need to put everything in one folder and you can run it.
