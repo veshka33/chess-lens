@@ -10,5 +10,6 @@
 
 | Клавиша | Действие |
 | :--- | :--- |
-| `F1` | Запуск анализа |
-| `Esc` | Закрыть оверлей |
+| `F8` | start/setup |
+| `F2` | Search for chessboard |
+| `right click` | Close the program |
