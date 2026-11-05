@@ -9,7 +9,7 @@
 > **Run as administrator:** Don't be afraid to run the project with administrator rights - this is necessary for the program to correctly capture/scan the screen and interact with the chess engine.
 
 > [!WARNING]
-> Do not play ranked games with this app, as you may get banned for doing so.
+> Do not play ranked games with this app, as you may be banned for this. Use it for educational purposes only.
 
 | Key | Action |
 | :--- | :--- |
