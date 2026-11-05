@@ -1,3 +1,3 @@
 # chess-lens
 
-![Скриншот Chess Lens](assets/chess_overlay.png)
+![Chess Lens](assets/chess_overlay.png)
