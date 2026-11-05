@@ -5,7 +5,7 @@
 > [!IMPORTANT]
 > To work you need to download the engine from https://github.com/LeelaChessZero/lc0/releases
 
-> [!WARNING]
+> [!NOTE]
 > **Run as administrator:** Don't be afraid to run the project with administrator rights - this is necessary for the program to correctly capture/scan the screen and interact with the chess engine.
 
 | Key | Action |
