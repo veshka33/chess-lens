@@ -18,4 +18,6 @@
 | `right click` | Close the program |
 
 # Running
-Download the release version that suits you, then download the engine from https://github.com/LeelaChessZero/lc0/releases. You need to put everything in one folder and you can run it.
+1. Download the release version that suits you https://github.com/veshka33/chess-lens/releases,
+2. Then download the engine from https://github.com/LeelaChessZero/lc0/releases.
+3. You need to put everything in one folder and you can run it.
