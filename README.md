@@ -20,4 +20,5 @@
 # Running
 1. Download the release version that suits you https://github.com/veshka33/chess-lens/releases,
 2. Then download the engine from https://github.com/LeelaChessZero/lc0/releases.
-3. You need to put everything in one folder and you can run it.
+3. Unpack the archive with the engine and rename it to lc0
+4. You need to put everything in one folder and you can run it.
